@@ -1,1 +1,12 @@
-
+<root>
+    <Bug_id>2</Bug_id>
+    <Title>'Add widget' button function is not working on device</Title>
+    <Severity>blocker</Severity>
+    <Priority>high</Priority>
+    <Environment>Samsung Galaxy S9+</Environment>
+    <Precondition>clear the app from running</Precondition>
+    <STR>Open app</STR>
+    <STR>Click “Add Widget” button</STR>
+    <AR>button design changes on tap, but button function is not working, widget is not created on any page</AR>
+    <ER>Widget creation window appears/widget created</ER>
+</root>
